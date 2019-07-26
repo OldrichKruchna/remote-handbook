@@ -1,10 +1,13 @@
 # Remote Handbook
 
-Why?
+![remote](https://pbs.twimg.com/media/Dbj4zFPW0AEOSgK?format=jpg&name=4096x4096)
+_From the Remote: Office Not Required (https://basecamp.com/books/remote)_
+
+## Why?
 
 The remote work is not a struggle! It's a benchmark for you project.
 
-How?
+## How?
 All remote best practices can be used for any kind of work - development, designing, client communication, decision making, management communication. We don't have to reinvent the wheel, there are completely remote companies out there, we can just learn from what they have achieved. But how to implement it to the daily work you ask? Good question. Start with the small steps. We do have define Remote Work Maturity Matrix - a tool which can help you define how are you doing it now, what exactly change to improve the remote work experience even more.
 
 ## TL;DR
@@ -58,6 +61,7 @@ With a few detail you can get as close as possible to face to face communication
 - Remote retro (https://remoteretro.io) - use remote tools, the blackboard doesn't work for remote.
 - Jabra - use good equipment, to reduce odd feeling from remote communication.
 - Ethernet cabel - the good internet is crucial of course. You can prevent yourself and your team member from unnecessary frustration, so don't call from train or bus.
+InVision - let's all the stakeholders 
 
 ## Resources
 - Remote: Office not needed (TODO)
