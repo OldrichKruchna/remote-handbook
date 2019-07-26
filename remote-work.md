@@ -1,29 +1,41 @@
 # Remote Handbook
 
-- https://www.tfir.io/2019/05/15/8-secrets-of-gitlabs-remote-work-success/
+Why?
 
-1) Write it down
-2) Few synchronous meetings 
-3) DRI: fast decisions - clear responsibilities - "Who wants what?"
-4) "The work matters!" // TODO quotes from remote book
-5)  "Focus on results and not time" // TODO quotes https://www.tfir.io/2019/05/15/8-secrets-of-gitlabs-remote-work-success/
-6) Build trust
+The remote work is not a struggle! It's a benchmark for you project.
+
+How?
+All remote best practices can be used for any kind of work - development, designing, client communication, decision making, management communication. We don't have to reinvent the wheel, there are completely remote companies out there, we can just learn from what they have achieved. But how to implement it to the daily work you ask? Good question. Start with the small steps. We do have define Remote Work Maturity Matrix - a tool which can help you define how are you doing it now, what exactly change to improve the remote work experience even more.
+
+## TL;DR
+
+1) Write it down - and be extra explicit.
+2) Focus on the results and not time. Only the work matters.
+3) Go asynchronous and have just few synchronous meetings.
+4) Meetings are the worst place for sharing information.
+5) Small steps - "If you take a small step, you don’t have to involve a lot of people because you’re not going to be very far away from what everyone else is. If you take a small step, you’ll get the feedback after that so you don’t need to unfold all kinds of scenarios."
+6) Fast decisions - Everyone can express an opinion, but you don’t have to convince everyone, you don’t need to get consensus to put something into action. That take times; forever." (https://about.gitlab.com/company/culture/all-remote/resources/)
+6) Responsibility - Who wants what? Who is responsible for it?
 
 ## Meetings
 
-- "Meeting is the worst place where to share things." -> Write down after each meeting what/who/when // TODO do quotes
-- "The most important is that people are able to interact on the same inputs"
-- "Best when all people are join through own computer", to prevent one-to-many meeting
-- Introduction of all people involved in the meeting room, sometimes is not clear who is who.
-- Introduce new people, say shortly what is your background, spend more time than usual, because communication windows is smaller than in the real life. Show collegues your office, share you context and background.
-
-### General meeting rules
+### TL;DR
 
 - What the meeting is about?
 - What is expected output?
-- Introduction of everyone
-- Define when
-- Define who
+- Who is involved? Do you know everyone, what's their role in the meeting?
+- What the next steps?
+- Who is responsible for the next steps?
+- When the steps will be done? 
+
+### Detail matters
+With a few detail you can get as close as possible to face to face communication:
+
+- The most important is that people are able to interact on the same inputs. That means do always share screening if you talk about something specific.
+- The meetings are easier if all the attendees have similar conditions, so if everyone sits in front of their own computed. That helps from one-to-many meetings.
+- In case you have the one-to-many meeting, introduce everyone and clarify their role in the meeting.
+- Meeting is the worst place where to share things. So write down after each meeting what/who/when.
+- Invest more time to communication than usually. Introduce new people, say shortly what is your background, spend more time than usual, because communication windows is smaller than in the real life. Show collegues your office, share you context and background.
 
 ## For people who work in the same office
 
@@ -33,23 +45,19 @@
 
 ## How to enhance remote work
 
-- Let the whole team to work remotely, especially PO/PM
-- Try it at least for few weeks
-- Evaluate results
+1. Let the whole team to work remotely, especially PO/PM
+2. Try it at least for few weeks
+3. Evaluate results
 
 ## Meet in person
 
-- People have to be able meet whenever they need. The budget has to count with that. It can't happen that people don't meet when they need to because of the budget constrains. You took advantage of the remote work, but you have to also be able to pay back when needed.
-
-### Remote retrospective
-
-https://remoteretro.io
+- People have to be able meet whenever they feel it's right. The budget has to count with that, that's part of remote work.
 
 ## Tools
 
-- Remote retro (https://remoteretro.io)
-- Jabra
-- Ethernet cabel
+- Remote retro (https://remoteretro.io) - use remote tools, the blackboard doesn't work for remote.
+- Jabra - use good equipment, to reduce odd feeling from remote communication.
+- Ethernet cabel - the good internet is crucial of course. You can prevent yourself and your team member from unnecessary frustration, so don't call from train or bus.
 
 ## Resources
 - Remote: Office not needed (TODO)
