@@ -38,7 +38,7 @@ With a few detail you can get as close as possible to face to face communication
 - The meetings are easier if all the attendees have similar conditions, so if everyone sits in front of their own computed. That helps from one-to-many meetings.
 - In case you have the one-to-many meeting, introduce everyone and clarify their role in the meeting.
 - Meeting is the worst place where to share things. So write down after each meeting what/who/when.
-- Invest more time to communication than usually. Introduce new people, say shortly what is your background, spend more time than usual, because communication windows is smaller than in the real life. Show collegues your office, share you context and background.
+- Invest more time to communication than usually. Introduce new people, say shortly what is your background, spend more time than usual, because communication windows is smaller than in the real life. Show colleagues your office, share you context and background.
 
 ## For people who work in the same office
 
@@ -49,7 +49,7 @@ With a few detail you can get as close as possible to face to face communication
 ## How to enhance remote work
 
 1. Let the whole team to work remotely, especially PO/PM
-2. Try it at least for few weeks
+2. Try it at least for few weeks or few days per week
 3. Evaluate results
 
 ## Meet in person
